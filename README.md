@@ -1,12 +1,10 @@
-# resumoApiREST
-
 # Api REST e RESTFul
 
 A Api REST (Representational State Transfer) é um conjunto de regras que orientam como os serviços da web se comunicam usando o HTTP. Ela permite que diferentes sistemas troquem informações de forma eficaz, seguindo o conceito de recursos identificados por URIs. Para operar nessa arquitetura, são usados métodos como GET, POST, PUT e DELETE para manipular esses recursos. Uma API REST é flexível, escalável e segue o princípio de statelessness, ou seja, não armazena informações sobre o cliente entre as interações.
 
-- **Comunicação via HTTP:** Utiliza o protocolo HTTP para permitir a interação entre serviços web de diferentes sistemas.
+* **Comunicação via HTTP:** Utiliza o protocolo HTTP para permitir a interação entre serviços web de diferentes sistemas.
   
-- **Recursos e URIs:** Baseia-se no conceito de recursos, cada um identificado por uma URI única, facilitando o acesso e manipulação dos dados.
+* **Recursos e URIs:** Baseia-se no conceito de recursos, cada um identificado por uma URI única, facilitando o acesso e manipulação dos dados.
 
 - **Métodos HTTP:** Utiliza métodos como GET (obter), POST (criar), PUT (atualizar), DELETE (excluir), entre outros, para realizar operações nos recursos.
 
